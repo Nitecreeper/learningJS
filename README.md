@@ -1,4 +1,6 @@
-# Sección 3 - Fundamentos
+# Curso Fernando Herrera - JavaScript
+
+## Sección 3 - Fundamentos
 
 JavaScript infiere el tipo de dato porque es débilmente tipado.
 
@@ -6,7 +8,7 @@ JavaScript infiere el tipo de dato porque es débilmente tipado.
 
 JS infiere el tipo de variable string.
 
-## Primitivos
+### **Primitivos**
 
 Información que NO es un objeto y son inmutables
 
@@ -20,7 +22,7 @@ Información que NO es un objeto y son inmutables
 
 En JS todo son objetos menos los primitivos.
 
-## Palabras reservadas
+### **Palabras reservadas**
 
 Palabras que tienen un uso específico para el cual fueron creadas. En caso contrario se puede recibir errores.
 
@@ -28,3 +30,6 @@ En los documentos adjuntos hay una lista de palabras reservadas.
 
 No usar nombres de variables con caracteres especiales.
 
+No iniciar nombres de variables con números, se acepta:
+- el guión bajo `_`
+- el símbolo de `$`
