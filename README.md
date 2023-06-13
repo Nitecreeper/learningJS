@@ -19,3 +19,12 @@ Información que NO es un objeto y son inmutables
 
 
 En JS todo son objetos menos los primitivos.
+
+## Palabras reservadas
+
+Palabras que tienen un uso específico para el cual fueron creadas. En caso contrario se puede recibir errores.
+
+En los documentos adjuntos hay una lista de palabras reservadas.
+
+No usar nombres de variables con caracteres especiales.
+
